@@ -12,6 +12,8 @@
 namespace Dashzeveg\Customhead;
 
 use Flarum\Extend;
+use Flarum\Frontend\Document;
+use Psr\Http\Message\ServerRequestInterface;
 
 return [
     (new Extend\Frontend('forum'))
