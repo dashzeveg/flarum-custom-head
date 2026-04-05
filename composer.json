@@ -26,9 +26,9 @@
             "title": "Custom Head",
             "category": "",
             "icon": {
-                "name": "",
-                "color": "",
-                "backgroundColor": ""
+                "name": "fas fa-code",
+                "color": "#fff",
+                "backgroundColor": "#2d2d2d"
             }
         },
         "flarum-cli": {
