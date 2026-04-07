@@ -17,6 +17,7 @@ php flarum cache:clear
 
 ```sh
 composer update dashzeveg/flarum-custom-head:"*"
+php flarum migrate
 php flarum cache:clear
 ```
 
