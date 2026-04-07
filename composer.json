@@ -1,6 +1,6 @@
 {
     "name": "dashzeveg/flarum-custom-head",
-    "description": "Add HTML to the head section",
+    "description": "Add custom HTML, scripts, and meta tags to the head section of your forum pages from the admin panel.",
     "keywords": [
         "flarum"
     ],
