@@ -1,7 +1,4 @@
 dashzeveg-custom-head:
-  # For more details on the format
-  # Checkout https://docs.flarum.org/2.x/extend/i18n/#appendix-a-standard-key-format
   admin:
-    my_cool_key: My Cool Key
-
-  forum:
+    custom_head_label: Custom Head HTML
+    custom_head_help: Enter your custom HTML to be included in the head section of your forum pages.

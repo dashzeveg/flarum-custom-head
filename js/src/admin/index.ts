@@ -1,7 +1,12 @@
 import app from 'flarum/admin/app';
 
-export { default as extend } from './extend';
-
 app.initializers.add('dashzeveg-custom-head', () => {
-  // console.log('[dashzeveg/flarum-custom-head] Hello, admin!');
+  app.registry
+    .for('dashzeveg-custom-head')
+    .registerSetting({
+      setting: 'dashzeveg-custom-head.custom_head_html',
+      type: 'textarea',
+      label: app.translator.trans('dashzeveg-custom-head.admin.custom_head_label'),
+      help: app.translator.trans('dashzeveg-custom-head.admin.custom_head_help'),
+    });
 });
