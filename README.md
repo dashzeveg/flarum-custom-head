@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/dashzeveg/flarum-custom-head.svg)](https://packagist.org/packages/dashzeveg/flarum-custom-head) [![Total Downloads](https://img.shields.io/packagist/dt/dashzeveg/flarum-custom-head.svg)](https://packagist.org/packages/dashzeveg/flarum-custom-head)
 
-A [Flarum](https://flarum.org) extension. Add HTML to the head section
+A [Flarum](https://flarum.org) extension. Add custom HTML, scripts, and meta tags to the head section of your forum pages from the admin panel.
 
 ## Installation
 
