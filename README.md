@@ -10,13 +10,13 @@ Install with composer:
 
 ```sh
 composer require dashzeveg/flarum-custom-head:"*"
+php flarum cache:clear
 ```
 
 ## Updating
 
 ```sh
 composer update dashzeveg/flarum-custom-head:"*"
-php flarum migrate
 php flarum cache:clear
 ```
 
