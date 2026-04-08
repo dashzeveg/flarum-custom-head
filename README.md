@@ -25,4 +25,4 @@ php flarum cache:clear
 
 - [Packagist](https://packagist.org/packages/dashzeveg/flarum-custom-head)
 - [GitHub](https://github.com/dashzeveg/flarum-custom-head)
-- [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
+- [Discuss](https://discuss.flarum.org/d/39036-custom-head-add-html-scripts-and-meta-tags-to-your-forums-head-section)
